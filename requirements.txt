@@ -1,0 +1,6 @@
+cx_Freeze
+requests
+psutil
+pycryptodome
+pywin32
+Pillow
